@@ -1,3 +1,20 @@
+# Cyber Smart Game 🎮🛡️
+
+A Unity-based educational game that teaches **cybersecurity awareness** through interactive gameplay.  
+Built with **Unity Engine** and features engaging levels where players learn about **safe online practices**.
+
+---
+
+## 🚀 Features
+- 🎯 Interactive levels focusing on real-world cyber threats  
+- 🔒 Quizzes and scenarios to teach safe online behavior  
+- 🕹️ Unity-powered smooth gameplay  
+- 📸 Includes screenshots for better understanding  
+
+---
+
+## 📂 Project Structure
+
 ## Setup Instructions
 
 This project uses external large files for the Firebase C++ SDK. Follow these steps to set up the project:
