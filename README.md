@@ -15,6 +15,13 @@ Built with **Unity Engine** and features engaging levels where players learn abo
 
 ## 📂 Project Structure
 
+## 📱 Play on Android
+You can download the latest APK from the [Releases Section](../../releases).
+
+1. Download the `.apk` file from the latest release.
+2. Transfer it to your Android device.
+3. Install and play!
+
 ## Setup Instructions
 
 This project uses external large files for the Firebase C++ SDK. Follow these steps to set up the project:
